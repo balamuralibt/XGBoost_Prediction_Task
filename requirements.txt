@@ -1,0 +1,10 @@
+pandas
+seaborn
+matplotlib
+numpy
+ptitprince
+scipy
+scikit-learn
+plotly
+umap-learn
+xgboost
