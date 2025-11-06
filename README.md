@@ -22,9 +22,12 @@ The repository includes four interactive HTML files generated as part of the fea
 
 | File Name         | Description                                                                 |
 |--------------------|------------------------------------------------------------------------------|
-| 3D_Scatter.html    | Interactive 3D plot visualizing feature relationship (days in hospital, heart rate, SBP in relation to outcome) |
+| 3D_Scatter.html    | Interactive **3D plot** visualizing feature relationship (days in hospital, heart rate, SBP in relation to outcome) |
 | PCA_Analysis.html  | 3D projection of features using **Principal Component Analysis (PCA)**           |
 | UMAP.html          | 3D projection of features using **Uniform Manifold Approximation and Projection (UMAP)** |
 | t-SNE.html         | 3D projection of features using **t-distributed Stochastic Neighbor Embedding (t-SNE)**   |
                                                                              |
 
+## Data Availability
+For privacy reasons, sim_interview_dataset.csv has not been included in this repository.
+Kindly contact the author for access to the dataset if required.
