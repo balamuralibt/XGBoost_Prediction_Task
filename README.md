@@ -18,12 +18,12 @@ This notebook covers:
 - pip install -r requirements.txt
 
 ## Visualized Features
-The repository includes four interactive HTML files generated as part of the feature visualization process:
+The repository includes four interactive HTML files generated as part of the feature visualization process (Inside Visualized_Feature folder):
 
 | File Name         | Description                                                                 |
 |--------------------|------------------------------------------------------------------------------|
 | 3D_Scatter.html    | Interactive **3D plot** visualizing feature relationship (days in hospital, heart rate, SBP in relation to outcome) |
-| PCA_Analysis.html  | 3D projection of features using **Principal Component Analysis (PCA)**           |
+| PCA.html  | 3D projection of features using **Principal Component Analysis (PCA)**           |
 | UMAP.html          | 3D projection of features using **Uniform Manifold Approximation and Projection (UMAP)** |
 | t-SNE.html         | 3D projection of features using **t-distributed Stochastic Neighbor Embedding (t-SNE)**   |
                                                                              |
