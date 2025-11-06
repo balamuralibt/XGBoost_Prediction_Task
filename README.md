@@ -13,6 +13,8 @@ This notebook covers:
 - Model training with XGBoost, including hyperparameter optimization via randomized search with stratified cross-validation
 - Model evaluation (Precision, Recall, F1-score) and balanced accuracy distribution using repeated stratified cross-validation
 - Feature importance analysis and visualization using XGBoost’s gain metric
+- SHAP summary plot illustrating feature impact distribution across 10% test samples
+- SHAP summary plot illustrating feature impact distribution across all misclassified test samples
 
 ## Requirements
 - pip install -r requirements.txt
@@ -26,6 +28,7 @@ The repository includes four interactive HTML files generated as part of the fea
 | PCA.html  | 3D projection of features using **Principal Component Analysis (PCA)**           |
 | UMAP.html          | 3D projection of features using **Uniform Manifold Approximation and Projection (UMAP)** |
 | t-SNE.html         | 3D projection of features using **t-distributed Stochastic Neighbor Embedding (t-SNE)**   |
+| 3D_Scatter_Misclassified.html    | Interactive **3D plot** visualizing feature relationship (days in hospital, heart rate, SBP in relation to outcome) for misclassified cases |
                                                                              |
 
 ## Data Availability
