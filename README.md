@@ -15,4 +15,4 @@ This notebook covers:
 - Feature importance analysis and visualization using XGBoost’s gain metric
 
 ## Requirements
-- pip install 
+- pip install -r requirements.txt
