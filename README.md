@@ -24,11 +24,11 @@ The repository includes four interactive HTML files generated as part of the fea
 
 | File Name         | Description                                                                 |
 |--------------------|------------------------------------------------------------------------------|
-| 3D_Scatter.html    | Interactive **3D plot** visualizing feature relationship (days in hospital, heart rate, SBP in relation to outcome) (https://balamuralibt.github.io/XGBoost_Prediction_Task/Visualized_Feature/3D_Scatter.html)|
-| PCA.html  | 3D projection of features using **Principal Component Analysis (PCA)**           |
-| UMAP.html          | 3D projection of features using **Uniform Manifold Approximation and Projection (UMAP)** |
-| t-SNE.html         | 3D projection of features using **t-distributed Stochastic Neighbor Embedding (t-SNE)**   |
-| 3D_Scatter_Misclassified.html    | Interactive **3D plot** visualizing feature relationship (days in hospital, heart rate, SBP in relation to outcome) for misclassified cases |
+| 3D_Scatter.html    | Interactive **3D plot** visualizing feature relationship (days in hospital, heart rate, SBP in relation to outcome) https://balamuralibt.github.io/XGBoost_Prediction_Task/Visualized_Feature/3D_Scatter.html|
+| PCA.html  | 3D projection of features using **Principal Component Analysis (PCA)** https://balamuralibt.github.io/XGBoost_Prediction_Task/Visualized_Feature/PCA.html|
+| UMAP.html          | 3D projection of features using **Uniform Manifold Approximation and Projection (UMAP)** https://balamuralibt.github.io/XGBoost_Prediction_Task/Visualized_Feature/UMAP.html|
+| t-SNE.html         | 3D projection of features using **t-distributed Stochastic Neighbor Embedding (t-SNE)** https://balamuralibt.github.io/XGBoost_Prediction_Task/Visualized_Feature/t-SNE.html|
+| 3D_Scatter_Misclassified.html    | Interactive **3D plot** visualizing feature relationship (days in hospital, heart rate, SBP in relation to outcome) for misclassified cases https://balamuralibt.github.io/XGBoost_Prediction_Task/Visualized_Feature/3D_Scatter_Misclassified.html|
                                                                             
 
 ## Data Availability
