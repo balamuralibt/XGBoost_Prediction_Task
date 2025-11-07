@@ -24,7 +24,8 @@ The repository includes four interactive HTML files generated as part of the fea
 
 | File Name         | Description                                                                 |
 |--------------------|------------------------------------------------------------------------------|
-| 3D_Scatter.html    | Interactive **3D plot** visualizing feature relationship (days in hospital, heart rate, SBP in relation to outcome) |
+| 3D_Scatter.html    | Interactive **3D plot** visualizing feature relationship (days in hospital, heart rate, SBP in relation to outcome) (https://balamuralibt.github.io/XGBoost_Prediction_Task/Visualized_Feature/3D_Scatter.html<img width="468" height="67" alt="image" src="https://github.com/user-attachments/assets/49c24ea9-8cd1-41e5-8208-c5352bf92739" />
+) |
 | PCA.html  | 3D projection of features using **Principal Component Analysis (PCA)**           |
 | UMAP.html          | 3D projection of features using **Uniform Manifold Approximation and Projection (UMAP)** |
 | t-SNE.html         | 3D projection of features using **t-distributed Stochastic Neighbor Embedding (t-SNE)**   |
