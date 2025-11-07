@@ -20,7 +20,7 @@ This notebook covers:
 - pip install -r requirements.txt
 
 ## Visualized Features
-The repository includes four interactive HTML files generated as part of the feature visualization process (Inside Visualized_Feature folder):
+The repository includes four interactive HTML files generated as part of the feature visualization process (Inside **Visualized_Feature** folder):
 
 | File Name         | Description                                                                 |
 |--------------------|------------------------------------------------------------------------------|
