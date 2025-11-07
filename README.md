@@ -29,7 +29,7 @@ The repository includes four interactive HTML files generated as part of the fea
 | UMAP.html          | 3D projection of features using **Uniform Manifold Approximation and Projection (UMAP)** |
 | t-SNE.html         | 3D projection of features using **t-distributed Stochastic Neighbor Embedding (t-SNE)**   |
 | 3D_Scatter_Misclassified.html    | Interactive **3D plot** visualizing feature relationship (days in hospital, heart rate, SBP in relation to outcome) for misclassified cases |
-                                                                             |
+                                                                            
 
 ## Data Availability
 For privacy reasons, sim_interview_dataset.csv has not been included in this repository.
